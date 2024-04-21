@@ -1,0 +1,16 @@
+.dark {
+  --accent: #babbf1; /* lavender */
+  --green: #a6d189; /* green */
+  --text: #c6d0f5; /* text */
+  --foreground: #232634; /* crust */
+  --background: #303446; /* base */
+  --outside: #232634; /* crust */
+  --post: #232634; /* crust */
+  --panel-border: none;
+  --highlighted: #414559; /* surface0 */
+  --visited: #737994; /* overlay0 */
+  --shadow: 0 0 0 transparent;
+
+  --nsfw: #ef9f76; /* peach */
+  --admin: #ea999c; /* maroon */
+}

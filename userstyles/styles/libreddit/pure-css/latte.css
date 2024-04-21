@@ -1,0 +1,16 @@
+.light {
+  --accent: #7287fd; /* lavender */
+  --green: #40a02b; /* green */
+  --text: #4c4f69; /* text */
+  --foreground: #dce0e8; /* crust */
+  --background: #eff1f5; /* base */
+  --outside: #dce0e8; /* crust */
+  --post: #dce0e8; /* crust */
+  --panel-border: none;
+  --highlighted: #ccd0da; /* surface0 */
+  --visited: #9ca0b0; /* overlay0 */
+  --shadow: 0 0 0 transparent;
+
+  --nsfw: #fe640b; /* peach */
+  --admin: #e64553; /* maroon */
+}
