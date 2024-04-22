@@ -1,4 +1,4 @@
-/* src/main.scss */
+/* https://github.com/Bitslayn/Dis-Cons */
 #user-context-user-profile > [class*=label_]::after {
   -webkit-mask: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 22c.488 0 .968-.035 1.438-.103A5.976 5.976 0 0 1 12 18c0-.34.028-.675.083-1H6v-.976C6 14.074 10 13 12 13c.621 0 1.436.104 2.264.305A5.975 5.975 0 0 1 18 12c1.488 0 2.849.541 3.897 1.438.068-.47.103-.95.103-1.438 0-5.523-4.477-10-10-10S2 6.477 2 12s4.477 10 10 10Z"/><path d="M18 22a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z"/></g></svg>');
 }
@@ -257,4 +257,3 @@
   width: 18px;
   height: 18px;
 }
-/*# sourceMappingURL=main.css.map */
