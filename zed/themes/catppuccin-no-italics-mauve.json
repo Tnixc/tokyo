@@ -7,7 +7,7 @@
             "name": "Tokyo",
             "appearance": "dark",
             "style": {
-                "border": "#363a4f",
+                "border": "#363a4f33",
                 "border.variant": "#353A51",
                 "border.focused": "#2C3042",
                 "border.selected": "#282E44",
@@ -19,13 +19,13 @@
                 "element.background": "#181926",
                 "element.hover": "#6e738d99",
                 "element.active": "#c198fd80",
-                "element.selected": "#363a4f99",
+                "element.selected": "#345AA699",
                 "element.disabled": "#6e738d",
                 "drop_target.background": "#494d64",
                 "ghost_element.background": null,
                 "ghost_element.hover": "#363a4f99",
                 "ghost_element.active": "#5b607880",
-                "ghost_element.selected": "#6e738d99",
+                "ghost_element.selected": "#345AA699",
                 "ghost_element.disabled": "#6e738d",
                 "text": "#becaf9",
                 "text.muted": "#b5c9ff",
@@ -57,14 +57,14 @@
                 "editor.gutter.background": "#24273a",
                 "editor.subheader.background": "#1e2030",
                 "editor.active_line.background": "#becaf912",
-                "editor.highlighted_line.background": null,
+                "editor.highlighted_line.background": "#5DA5FF44",
                 "editor.line_number": "#8087a2",
                 "editor.active_line_number": "#6EA3FE",
                 "editor.invisible": "#939ab7",
-                "editor.wrap_guide": "#5b6078",
-                "editor.active_wrap_guide": "#5b6078",
-                "editor.document_highlight.read_background": "#aabbe329",
-                "editor.document_highlight.write_background": "#aabbe329",
+                "editor.wrap_guide": "#5b607844",
+                "editor.active_wrap_guide": "#5b607844",
+                "editor.document_highlight.read_background": "#F4AA4918",
+                "editor.document_highlight.write_background": "#F4AA4918",
                 "terminal.background": "#24273a",
                 "terminal.foreground": "#becaf9",
                 "terminal.dim_foreground": "#8087a2",
@@ -191,7 +191,7 @@
                     },
                     "comment": {
                         "color": "#6e738d",
-                        "font_style": null,
+                        "font_style": "italic",
                         "font_weight": null
                     },
                     "comment.doc": {
@@ -216,7 +216,7 @@
                     },
                     "emphasis": {
                         "color": "#ff6c8d",
-                        "font_style": null,
+                        "font_style": "italic",
                         "font_weight": null
                     },
                     "emphasis.strong": {
