@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ButtonSize</key>
+	<integer>24</integer>
+	<key>DrawsAppIconInsteadOfTitle</key>
+	<false/>
+	<key>DumpPSD</key>
+	<false/>
+	<key>HideWindowRim</key>
+	<false/>
+	<key>HideWindowTitle</key>
+	<false/>
+	<key>MicaGlass</key>
+	<dict>
+		<key>micainlinetitlebarcaar</key>
+		<true/>
+		<key>micainlinetitlebarcaml</key>
+		<true/>
+		<key>micasidebarcaar</key>
+		<false/>
+		<key>micatitlebarcaar</key>
+		<true/>
+		<key>micatitlebarcaml</key>
+		<true/>
+	</dict>
+	<key>MicaSlice</key>
+	<dict>
+		<key>micainlinetitlebarcaar</key>
+		<string>{{0.2, 0.9},{0.6, 1.0}}</string>
+		<key>micainlinetitlebarcaml</key>
+		<string>{{0.2, 0.9},{0.6, 1.0}}</string>
+		<key>micasidebarcaar</key>
+		<string>{{1, 1},{1, 1}}</string>
+		<key>micatitlebarcaar</key>
+		<string>{{0.2, 0.9},{0.6, 1.0}}</string>
+		<key>micatitlebarcaml</key>
+		<string>{{0.2, 0.9},{0.6, 1.0}}</string>
+	</dict>
+	<key>MicaTile</key>
+	<dict>
+		<key>micaheadercaar</key>
+		<true/>
+		<key>micainlinesidebarcaar</key>
+		<true/>
+		<key>micainlinetitlebarcaar</key>
+		<true/>
+		<key>micainlinetitlebarcaml</key>
+		<true/>
+		<key>micasidebarcaar</key>
+		<true/>
+		<key>micatitlebarcaar</key>
+		<true/>
+		<key>micatitlebarcaml</key>
+		<true/>
+		<key>micawindowbackgroundcaar</key>
+		<false/>
+	</dict>
+	<key>PatchNSAppearance</key>
+	<false/>
+	<key>SystemCornerMaskSliceInset</key>
+	<integer>20</integer>
+	<key>ThemeColorOverride</key>
+	<dict>
+		<key>controlAccentColor</key>
+		<string>#6EA3FE</string>
+		<key>controlAlternatingRowColor</key>
+		<string>303030</string>
+		<key>engravedtext0</key>
+		<string>eeeeee</string>
+		<key>engravedtext1</key>
+		<string>e9e9e9</string>
+		<key>menubarimage0</key>
+		<string>00000000</string>
+		<key>menubarimage1</key>
+		<string>00000000</string>
+		<key>menubartext0</key>
+		<string>00000000</string>
+		<key>menubartext1</key>
+		<string>00000000</string>
+		<key>sidebarimage0</key>
+		<string>eeeeee</string>
+		<key>sidebarimage1</key>
+		<string>e9e9e9</string>
+		<key>sidebartext0</key>
+		<string>eeeeee</string>
+		<key>sidebartext1</key>
+		<string>e9e9e9</string>
+	</dict>
+	<key>ToolbarObeysNormalTitlebarHeight</key>
+	<true/>
+	<key>TrafficLightSpacing</key>
+	<integer>0</integer>
+	<key>TrafficOffset</key>
+	<integer>0</integer>
+	<key>WindowShadowRadiusActive</key>
+	<integer>30</integer>
+	<key>WindowShadowRadiusInactive</key>
+	<integer>30</integer>
+	<key>WindowShadowXOffset</key>
+	<integer>0</integer>
+	<key>WindowShadowYOffset</key>
+	<integer>8</integer>
+</dict>
+</plist>
