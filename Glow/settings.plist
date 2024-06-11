@@ -9,9 +9,9 @@
 	<key>DumpPSD</key>
 	<false/>
 	<key>HideWindowRim</key>
-	<false/>
+	<true/>
 	<key>HideWindowTitle</key>
-	<false/>
+	<true/>
 	<key>MicaGlass</key>
 	<dict>
 		<key>micainlinetitlebarcaar</key>
@@ -19,7 +19,7 @@
 		<key>micainlinetitlebarcaml</key>
 		<true/>
 		<key>micasidebarcaar</key>
-		<false/>
+		<true/>
 		<key>micatitlebarcaar</key>
 		<true/>
 		<key>micatitlebarcaml</key>
@@ -55,38 +55,38 @@
 		<key>micatitlebarcaml</key>
 		<true/>
 		<key>micawindowbackgroundcaar</key>
-		<false/>
+		<true/>
 	</dict>
 	<key>PatchNSAppearance</key>
-	<false/>
+	<true/>
 	<key>SystemCornerMaskSliceInset</key>
 	<integer>20</integer>
 	<key>ThemeColorOverride</key>
 	<dict>
 		<key>controlAccentColor</key>
-		<string>#6EA3FE</string>
+		<string>ffffff</string>
 		<key>controlAlternatingRowColor</key>
 		<string>303030</string>
 		<key>engravedtext0</key>
-		<string>eeeeee</string>
+		<string>ffffff</string>
 		<key>engravedtext1</key>
-		<string>e9e9e9</string>
+		<string>ffffff</string>
 		<key>menubarimage0</key>
-		<string>00000000</string>
+		<string>ffffff</string>
 		<key>menubarimage1</key>
-		<string>00000000</string>
+		<string>ffffff</string>
 		<key>menubartext0</key>
-		<string>00000000</string>
+		<string>ffffff</string>
 		<key>menubartext1</key>
-		<string>00000000</string>
+		<string>ffffff</string>
 		<key>sidebarimage0</key>
-		<string>eeeeee</string>
+		<string>ffffff</string>
 		<key>sidebarimage1</key>
-		<string>e9e9e9</string>
+		<string>ffffff</string>
 		<key>sidebartext0</key>
-		<string>eeeeee</string>
+		<string>ffffff</string>
 		<key>sidebartext1</key>
-		<string>e9e9e9</string>
+		<string>ffffff</string>
 	</dict>
 	<key>ToolbarObeysNormalTitlebarHeight</key>
 	<true/>
